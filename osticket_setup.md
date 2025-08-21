@@ -172,7 +172,18 @@ New Permissions -> Everyone -> All
 ```
 After that, I continued the setup in the browser, naming the helpdesk and setting a default email.
 
-📸 *Screenshot of config file permissions and web setup*
+<img width="1510" height="805" alt="rename ostsample" src="https://github.com/user-attachments/assets/8780caed-5800-491c-89a1-e02656d59f29" />
+<img width="1462" height="812" alt="rename ostsample2" src="https://github.com/user-attachments/assets/4b1fcb6b-25b8-4d75-a241-89b3a7d9c6bc" />
+<img width="1080" height="675" alt="ost new permissions" src="https://github.com/user-attachments/assets/4f197f1f-a5e9-4137-9060-653b545868ef" />
+<img width="1279" height="762" alt="ost new permissions2" src="https://github.com/user-attachments/assets/3a7ced0d-6d92-40c8-bd0b-7e0fc206f2bd" />
+<img width="1360" height="835" alt="ost new permissions3" src="https://github.com/user-attachments/assets/f48998e1-7800-423c-946d-5cce58296c1d" />
+<img width="1360" height="835" alt="ost new permissions3" src="https://github.com/user-attachments/assets/6737cbab-f8b0-46a5-bfd4-c9ab05705c38" />
+
+
+
+
+
+
 
 **From this I learned:** how to handle configuration files securely and set up osTicket properly.
 
@@ -204,6 +215,10 @@ MySQL Password: root
 <img width="1028" height="689" alt="heidiinstallation3 password(root)" src="https://github.com/user-attachments/assets/cf567581-0cf4-49b4-a71b-ed9c92aee602" />
 <img width="1414" height="772" alt="heidiinstallation4" src="https://github.com/user-attachments/assets/ea6f0d87-1a0f-4120-9ea6-4f6cb0280afb" />
 <img width="1380" height="780" alt="heidiinstallation5" src="https://github.com/user-attachments/assets/ba6f40d4-2e2b-4d6e-ba0f-858d8e78ebd1" />
+<img width="1181" height="869" alt="back to basic installations" src="https://github.com/user-attachments/assets/ef7d990b-a8c2-487f-aeb3-fac7eec5e4d1" />
+<img width="1920" height="949" alt="heidi osticket created files" src="https://github.com/user-attachments/assets/ca071aee-3800-429b-af18-2427f1a7f434" />
+
+
 
 
 
