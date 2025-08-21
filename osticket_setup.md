@@ -160,7 +160,9 @@ And renamed it:
 ```bash
 osTicket
 ```
+
 **opened IIS and registered PHP**
+
 <img width="620" height="439" alt="iss" src="https://github.com/user-attachments/assets/76c74a9b-f248-4b58-9ef4-a048cd8844f9" />
 <img width="1478" height="734" alt="iss2" src="https://github.com/user-attachments/assets/69971d5c-6d4a-49d0-9d14-58945c107a03" />
 <img width="1457" height="767" alt="iss3" src="https://github.com/user-attachments/assets/f9d9a64b-b9dc-4f45-839f-3f65c3bc41f4" />
@@ -174,6 +176,7 @@ osTicket
 
 
 **Osticket folder**
+
 <img width="868" height="561" alt="osticket1" src="https://github.com/user-attachments/assets/c89ff47d-85e9-4616-80eb-56d0a5fd2834" />
 <img width="1475" height="751" alt="osticket2" src="https://github.com/user-attachments/assets/2eb9b625-3ede-4eae-a66d-ca34cfc56d59" />
 <img width="1441" height="764" alt="osticket3" src="https://github.com/user-attachments/assets/02e7efb6-273e-4ebc-a88a-bf341d64e8a4" />
