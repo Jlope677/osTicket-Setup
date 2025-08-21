@@ -135,7 +135,16 @@ And renamed it:
 osTicket
 ```
 
-📸 *Screenshot of IIS setup and osTicket folder*
+<img width="868" height="561" alt="osticket1" src="https://github.com/user-attachments/assets/c89ff47d-85e9-4616-80eb-56d0a5fd2834" />
+<img width="1475" height="751" alt="osticket2" src="https://github.com/user-attachments/assets/2eb9b625-3ede-4eae-a66d-ca34cfc56d59" />
+<img width="1441" height="764" alt="osticket3" src="https://github.com/user-attachments/assets/02e7efb6-273e-4ebc-a88a-bf341d64e8a4" />
+<img width="1784" height="1004" alt="osticket4" src="https://github.com/user-attachments/assets/52423658-5da4-46b0-b84d-e6d3c7fa160b" />
+<img width="1474" height="778" alt="renamed upload to osticket" src="https://github.com/user-attachments/assets/bdef3b0b-e129-48e0-af70-5adc5c9f64a8" />
+
+
+
+
+
 
 **From this I learned:** how to integrate PHP with IIS and host a web application.
 
