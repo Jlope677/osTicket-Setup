@@ -172,6 +172,7 @@ New Permissions -> Everyone -> All
 ```
 After that, I continued the setup in the browser, naming the helpdesk and setting a default email.
 
+**ost-config.php file configurations**
 <img width="1510" height="805" alt="rename ostsample" src="https://github.com/user-attachments/assets/8780caed-5800-491c-89a1-e02656d59f29" />
 <img width="1462" height="812" alt="rename ostsample2" src="https://github.com/user-attachments/assets/4b1fcb6b-25b8-4d75-a241-89b3a7d9c6bc" />
 <img width="1620" height="1002" alt="ost-config properties" src="https://github.com/user-attachments/assets/27787107-fe9e-4b67-a9c1-77ad037df11b" />
@@ -182,6 +183,11 @@ After that, I continued the setup in the browser, naming the helpdesk and settin
 <img width="1279" height="762" alt="ost new permissions2" src="https://github.com/user-attachments/assets/3a7ced0d-6d92-40c8-bd0b-7e0fc206f2bd" />
 <img width="1360" height="835" alt="ost new permissions3" src="https://github.com/user-attachments/assets/f48998e1-7800-423c-946d-5cce58296c1d" />
 <img width="1360" height="835" alt="ost new permissions3" src="https://github.com/user-attachments/assets/6737cbab-f8b0-46a5-bfd4-c9ab05705c38" />
+
+**ost configurations continue**
+<img width="1193" height="929" alt="ost setup continue" src="https://github.com/user-attachments/assets/5667fc61-e15b-4ee5-a6c2-d7cac0c639cd" />
+<img width="544" height="869" alt="osticket basic1password(Password1)" src="https://github.com/user-attachments/assets/c570e743-835a-4018-9dc5-5bef35ccce80" />
+
 
 
 
