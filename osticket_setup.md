@@ -106,6 +106,13 @@ Password: root
 ```
 
 <img width="1505" height="827" alt="new php file" src="https://github.com/user-attachments/assets/5b202cf3-721b-4a60-bf4b-3f94b9e3a288" />
+<img width="904" height="678" alt="click it" src="https://github.com/user-attachments/assets/016e49ec-4d47-4fef-afa0-24e069b8107d" />
+<img width="848" height="641" alt="php to c1" src="https://github.com/user-attachments/assets/15c56153-f570-49f2-bbdf-f210e7e51868" />
+<img width="1016" height="650" alt="php to c2" src="https://github.com/user-attachments/assets/da85b80e-d192-4f93-8183-6cb5c750763b" />
+<img width="823" height="642" alt="php to c3" src="https://github.com/user-attachments/assets/320302a6-61df-4d95-9520-02ba7eab0bd1" />
+
+
+
 
 
 
