@@ -164,6 +164,12 @@ osTicket
 <img width="620" height="439" alt="iss" src="https://github.com/user-attachments/assets/76c74a9b-f248-4b58-9ef4-a048cd8844f9" />
 <img width="1478" height="734" alt="iss2" src="https://github.com/user-attachments/assets/69971d5c-6d4a-49d0-9d14-58945c107a03" />
 <img width="1457" height="767" alt="iss3" src="https://github.com/user-attachments/assets/f9d9a64b-b9dc-4f45-839f-3f65c3bc41f4" />
+<img width="670" height="570" alt="php2" src="https://github.com/user-attachments/assets/0dedd4a6-edb0-48e2-987c-cec591ad371a" />
+<img width="685" height="595" alt="php3" src="https://github.com/user-attachments/assets/bede21b2-a0de-4835-be4e-b4fad8ff138a" />
+<img width="1209" height="867" alt="php4" src="https://github.com/user-attachments/assets/0e52dd48-47ea-4a14-8044-ae446fd50360" />
+<img width="1491" height="772" alt="php5" src="https://github.com/user-attachments/assets/266e9749-a747-4aee-8991-66a7581ef797" />
+<img width="1490" height="773" alt="php6" src="https://github.com/user-attachments/assets/3befadfe-109f-473f-ab87-67a338c289ff" />
+<img width="1556" height="797" alt="php7" src="https://github.com/user-attachments/assets/7726f5da-b5a6-43b3-b7fc-912b67f2f84d" />
 
 
 
@@ -173,6 +179,9 @@ osTicket
 <img width="1441" height="764" alt="osticket3" src="https://github.com/user-attachments/assets/02e7efb6-273e-4ebc-a88a-bf341d64e8a4" />
 <img width="1784" height="1004" alt="osticket4" src="https://github.com/user-attachments/assets/52423658-5da4-46b0-b84d-e6d3c7fa160b" />
 <img width="1474" height="778" alt="renamed upload to osticket" src="https://github.com/user-attachments/assets/bdef3b0b-e129-48e0-af70-5adc5c9f64a8" />
+<img width="1485" height="795" alt="restart the server1" src="https://github.com/user-attachments/assets/04f943b3-9a8f-4219-931d-4030786eda14" />
+<img width="1519" height="781" alt="restart the server2" src="https://github.com/user-attachments/assets/5ed91d1b-ebd5-43b3-9d3f-03a8f37d2b26" />
+
 
 
 
@@ -191,12 +200,14 @@ php_intl.dll
 php_opcache.dll
 ```
 After enabling them, I refreshed the osTicket site in the browser and observed the changes.
-
+<img width="1649" height="835" alt="using osticket" src="https://github.com/user-attachments/assets/cbaa3b58-be2a-499a-bcf1-2f44ff242d90" />
+<img width="1587" height="1016" alt="using osticket2" src="https://github.com/user-attachments/assets/6d395f11-f9d7-4ec4-abbc-47009feaaf0f" />
 <img width="1517" height="792" alt="fixing the xs1" src="https://github.com/user-attachments/assets/dcb5aef4-ae5a-404e-9cf1-d56e567914a3" />
 <img width="1467" height="763" alt="fixing the xs2" src="https://github.com/user-attachments/assets/6ecf0d4b-bdd6-4177-bfcf-fbe9beb4cbc3" />
 <img width="1274" height="628" alt="fixing the xs3" src="https://github.com/user-attachments/assets/728ca89a-4fae-4828-89c4-fd73ba65ebf2" />
 <img width="1456" height="602" alt="fixing the xs4" src="https://github.com/user-attachments/assets/576df0a1-348e-450e-b6f6-0f0dcd9b6f4a" />
 <img width="1084" height="888" alt="fixing the xs5" src="https://github.com/user-attachments/assets/a11c724e-801d-4f94-b5f8-d53cf19e1340" />
+
 
 
 
