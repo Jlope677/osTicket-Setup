@@ -104,12 +104,31 @@ with settings:
 Username: root
 Password: root
 ```
-
+**php-7.3.8-nts-Win32-VC15-x86.zip to C:\PHP**
 <img width="1505" height="827" alt="new php file" src="https://github.com/user-attachments/assets/5b202cf3-721b-4a60-bf4b-3f94b9e3a288" />
 <img width="904" height="678" alt="click it" src="https://github.com/user-attachments/assets/016e49ec-4d47-4fef-afa0-24e069b8107d" />
 <img width="848" height="641" alt="php to c1" src="https://github.com/user-attachments/assets/15c56153-f570-49f2-bbdf-f210e7e51868" />
 <img width="1016" height="650" alt="php to c2" src="https://github.com/user-attachments/assets/da85b80e-d192-4f93-8183-6cb5c750763b" />
 <img width="823" height="642" alt="php to c3" src="https://github.com/user-attachments/assets/320302a6-61df-4d95-9520-02ba7eab0bd1" />
+
+**Intalling VC_redist.x86.exe**
+<img width="1489" height="793" alt="vc file" src="https://github.com/user-attachments/assets/e2275acd-ce58-4823-aed1-c17a1db76c57" />
+
+**intalling mysql-5.5.62-win32.msi**
+<img width="1415" height="705" alt="mysql" src="https://github.com/user-attachments/assets/c182fc94-7ce2-4fb9-9c91-b5f88dcd8090" />
+<img width="690" height="503" alt="mysql2" src="https://github.com/user-attachments/assets/1cf87f21-0f47-424d-aef7-529f1dc9ccdd" />
+<img width="746" height="532" alt="mysql3" src="https://github.com/user-attachments/assets/50c3cba4-b77b-4284-81c8-4e93bdad980d" />
+<img width="720" height="540" alt="mysql4" src="https://github.com/user-attachments/assets/eced7149-ec2f-4f06-baa0-4a84e6714008" />
+<img width="857" height="523" alt="mysql5(root)" src="https://github.com/user-attachments/assets/31c9ed67-5b26-426e-8d93-69a44be110eb" />
+<img width="698" height="523" alt="mysql6" src="https://github.com/user-attachments/assets/41bc0132-d916-4ddf-bdb9-7b21fa0ea0b5" />
+<img width="847" height="560" alt="mysql7" src="https://github.com/user-attachments/assets/c1f39c41-9f16-4b2e-b9e5-502a6879a8c8" />
+
+
+
+
+
+
+
 
 
 
