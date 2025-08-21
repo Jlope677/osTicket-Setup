@@ -174,6 +174,10 @@ After that, I continued the setup in the browser, naming the helpdesk and settin
 
 <img width="1510" height="805" alt="rename ostsample" src="https://github.com/user-attachments/assets/8780caed-5800-491c-89a1-e02656d59f29" />
 <img width="1462" height="812" alt="rename ostsample2" src="https://github.com/user-attachments/assets/4b1fcb6b-25b8-4d75-a241-89b3a7d9c6bc" />
+<img width="1620" height="1002" alt="ost-config properties" src="https://github.com/user-attachments/assets/27787107-fe9e-4b67-a9c1-77ad037df11b" />
+<img width="643" height="689" alt="ost-config properties2" src="https://github.com/user-attachments/assets/9783c709-e65c-44d1-a43c-a4cdc9da3100" />
+<img width="1108" height="665" alt="ost-config properties3" src="https://github.com/user-attachments/assets/52f409e3-5b87-4b85-bef8-bef968f28ee5" />
+<img width="1084" height="702" alt="ost-config properties4" src="https://github.com/user-attachments/assets/90c0d61e-9ff9-430d-9d9d-d9bb4a24888a" />
 <img width="1080" height="675" alt="ost new permissions" src="https://github.com/user-attachments/assets/4f197f1f-a5e9-4137-9060-653b545868ef" />
 <img width="1279" height="762" alt="ost new permissions2" src="https://github.com/user-attachments/assets/3a7ced0d-6d92-40c8-bd0b-7e0fc206f2bd" />
 <img width="1360" height="835" alt="ost new permissions3" src="https://github.com/user-attachments/assets/f48998e1-7800-423c-946d-5cce58296c1d" />
