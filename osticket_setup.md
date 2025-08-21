@@ -22,6 +22,10 @@ After creating it, I logged in using Remote Desktop.
 <img width="1544" height="848" alt="create vm Password(osTicketPassword1!)" src="https://github.com/user-attachments/assets/deaa2c68-4e32-444c-ab0a-1475f0680d31" />
 <img width="1072" height="940" alt="creating the virtual machine4" src="https://github.com/user-attachments/assets/a9196d61-65e5-4ebc-9564-8897fc4f08ef" />
 <img width="1073" height="830" alt="create vm" src="https://github.com/user-attachments/assets/36d70136-fc1a-4079-b585-503981b3eeaf" />
+<img width="1892" height="752" alt="remote desktop" src="https://github.com/user-attachments/assets/8c466dfe-f881-42c0-90c7-6ad916deca05" />
+<img width="1570" height="924" alt="initial windows configuration" src="https://github.com/user-attachments/assets/e34cc44d-aaab-4135-b17e-8982ca21abd5" />
+
+
 
 
 
@@ -184,8 +188,14 @@ And the end user URL was:
 ```bash
 http://localhost/osTicket/
 ```
+**Staff panel**
+<img width="1292" height="859" alt="osticket login" src="https://github.com/user-attachments/assets/6059df36-40db-4519-99d1-42da16d8c379" />
+<img width="1449" height="525" alt="osticket login2(password)" src="https://github.com/user-attachments/assets/173c218f-c279-4ce5-861d-436a61c0da8d" />
+**end user URL**
 
-📸 *Screenshot of working osTicket login page*
+<img width="1259" height="679" alt="for end users" src="https://github.com/user-attachments/assets/e37466fb-9ac7-4707-98f3-0f5571b465e5" />
+
+
 
 **From this I learned:** how all the pieces (IIS, PHP, MySQL, and osTicket) work together to deliver a functioning help desk system.
 
