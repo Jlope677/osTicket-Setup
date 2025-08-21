@@ -150,7 +150,16 @@ php_opcache.dll
 ```
 After enabling them, I refreshed the osTicket site in the browser and observed the changes.
 
-📸 *Screenshot of PHP extensions being enabled*
+<img width="1175" height="855" alt="osticket installed" src="https://github.com/user-attachments/assets/0998b0f0-a46e-4a5a-9231-eaa3302c1eff" />
+<img width="1517" height="792" alt="fixing the xs1" src="https://github.com/user-attachments/assets/dcb5aef4-ae5a-404e-9cf1-d56e567914a3" />
+<img width="1467" height="763" alt="fixing the xs2" src="https://github.com/user-attachments/assets/6ecf0d4b-bdd6-4177-bfcf-fbe9beb4cbc3" />
+<img width="1274" height="628" alt="fixing the xs3" src="https://github.com/user-attachments/assets/728ca89a-4fae-4828-89c4-fd73ba65ebf2" />
+<img width="1456" height="602" alt="fixing the xs4" src="https://github.com/user-attachments/assets/576df0a1-348e-450e-b6f6-0f0dcd9b6f4a" />
+<img width="1084" height="888" alt="fixing the xs5" src="https://github.com/user-attachments/assets/a11c724e-801d-4f94-b5f8-d53cf19e1340" />
+
+
+
+
 
 **From this I learned:** how PHP extensions extend functionality and why enabling the correct ones is critical.
 
