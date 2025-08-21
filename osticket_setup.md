@@ -150,7 +150,6 @@ php_opcache.dll
 ```
 After enabling them, I refreshed the osTicket site in the browser and observed the changes.
 
-<img width="1175" height="855" alt="osticket installed" src="https://github.com/user-attachments/assets/0998b0f0-a46e-4a5a-9231-eaa3302c1eff" />
 <img width="1517" height="792" alt="fixing the xs1" src="https://github.com/user-attachments/assets/dcb5aef4-ae5a-404e-9cf1-d56e567914a3" />
 <img width="1467" height="763" alt="fixing the xs2" src="https://github.com/user-attachments/assets/6ecf0d4b-bdd6-4177-bfcf-fbe9beb4cbc3" />
 <img width="1274" height="628" alt="fixing the xs3" src="https://github.com/user-attachments/assets/728ca89a-4fae-4828-89c4-fd73ba65ebf2" />
@@ -258,6 +257,8 @@ And the end user URL was:
 ```bash
 http://localhost/osTicket/
 ```
+
+<img width="1175" height="855" alt="osticket installed" src="https://github.com/user-attachments/assets/0998b0f0-a46e-4a5a-9231-eaa3302c1eff" />
 **Staff panel**
 <img width="1292" height="859" alt="osticket login" src="https://github.com/user-attachments/assets/6059df36-40db-4519-99d1-42da16d8c379" />
 <img width="1449" height="525" alt="osticket login2(password)" src="https://github.com/user-attachments/assets/173c218f-c279-4ce5-861d-436a61c0da8d" />
