@@ -51,10 +51,13 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 PHPManagerForIIS_V1.5.0.msi
 rewrite_amd64_en-US.msi
 ```
+
 **unzipping File**
+
 <img width="691" height="609" alt="extract file" src="https://github.com/user-attachments/assets/fe21b56d-cff5-490d-a1d5-48f4218dd048" />
 <img width="1455" height="760" alt="extract file2" src="https://github.com/user-attachments/assets/5b7b40dc-7a32-41c3-874e-0fb570a96c66" />
 <img width="868" height="635" alt="extract3" src="https://github.com/user-attachments/assets/e12d372b-89ba-4641-91a1-8fc8e1295d4c" />
+
 **Enabling IIS with CGI**
 <img width="1488" height="782" alt="control panel1" src="https://github.com/user-attachments/assets/83b0f4e8-4730-4432-a1ec-f15dde967530" />
 <img width="560" height="505" alt="control panel2" src="https://github.com/user-attachments/assets/42025e1a-b466-4749-8f01-094a394fcf6d" />
