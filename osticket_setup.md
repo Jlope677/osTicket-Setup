@@ -61,6 +61,18 @@ rewrite_amd64_en-US.msi
 **Enabling IIS with CGI**
 <img width="1488" height="782" alt="control panel1" src="https://github.com/user-attachments/assets/83b0f4e8-4730-4432-a1ec-f15dde967530" />
 <img width="560" height="505" alt="control panel2" src="https://github.com/user-attachments/assets/42025e1a-b466-4749-8f01-094a394fcf6d" />
+<img width="1328" height="999" alt="webserver turned on" src="https://github.com/user-attachments/assets/b22a7440-bebc-4d07-81c7-d75eea4c74f7" />
+
+
+**Installing PHPManagerForIIS_V1.5.0.msi**
+<img width="1486" height="798" alt="php installation" src="https://github.com/user-attachments/assets/fec74360-9e53-415b-ac63-bbbe0016b5dc" />
+
+**Installing rewrite_amd64_en-US.msi**
+<img width="1493" height="817" alt="rewrite" src="https://github.com/user-attachments/assets/113b088b-d9d0-40d5-9d2d-8eff5228b92a" />
+<img width="634" height="509" alt="rewrite2" src="https://github.com/user-attachments/assets/47c7100a-e54c-451b-9e09-72a365eabd83" />
+
+
+
 
 
 
