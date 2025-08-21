@@ -51,8 +51,11 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 PHPManagerForIIS_V1.5.0.msi
 rewrite_amd64_en-US.msi
 ```
+<img width="691" height="609" alt="extract file" src="https://github.com/user-attachments/assets/fe21b56d-cff5-490d-a1d5-48f4218dd048" />
+<img width="1455" height="760" alt="extract file2" src="https://github.com/user-attachments/assets/5b7b40dc-7a32-41c3-874e-0fb570a96c66" />
+<img width="868" height="635" alt="extract3" src="https://github.com/user-attachments/assets/e12d372b-89ba-4641-91a1-8fc8e1295d4c" />
 
-📸 *Screenshot of IIS feature selection and installs*
+
 
 **From this I learned:** the importance of preparing the environment correctly before installing dependencies. IIS with CGI is required for PHP applications.
 
