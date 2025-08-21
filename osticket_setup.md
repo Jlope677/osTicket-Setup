@@ -105,7 +105,9 @@ Username: root
 Password: root
 ```
 
-📸 *Screenshot of PHP folder and MySQL installation*
+<img width="1505" height="827" alt="new php file" src="https://github.com/user-attachments/assets/5b202cf3-721b-4a60-bf4b-3f94b9e3a288" />
+
+
 
 **From this I learned:** how PHP and MySQL work together to support web applications like osTicket.
 
@@ -197,7 +199,17 @@ MySQL Username: root
 MySQL Password: root
 ```
 
-📸 *Screenshot of HeidiSQL with osTicket DB setup*
+<img width="1532" height="839" alt="heidiinstallation" src="https://github.com/user-attachments/assets/86f5967c-d7b5-4cad-93bd-e6addae6968a" />
+<img width="788" height="654" alt="heidiinstallation2" src="https://github.com/user-attachments/assets/d3e29b63-d169-403f-99f4-4ebe406f67a7" />
+<img width="1028" height="689" alt="heidiinstallation3 password(root)" src="https://github.com/user-attachments/assets/cf567581-0cf4-49b4-a71b-ed9c92aee602" />
+<img width="1414" height="772" alt="heidiinstallation4" src="https://github.com/user-attachments/assets/ea6f0d87-1a0f-4120-9ea6-4f6cb0280afb" />
+<img width="1380" height="780" alt="heidiinstallation5" src="https://github.com/user-attachments/assets/ba6f40d4-2e2b-4d6e-ba0f-858d8e78ebd1" />
+
+
+
+
+
+
 
 **From this I learned:** how to create and connect a MySQL database to a web application.
 
