@@ -16,7 +16,17 @@ Password: osTicketPassword1!
 ```
 After creating it, I logged in using Remote Desktop.
 
-📸 *Screenshot of VM creation and RDP login here*
+<img width="1915" height="832" alt="creating the virtual machine" src="https://github.com/user-attachments/assets/6a4af409-3efd-4f6f-8075-065164a93708" />
+<img width="1910" height="788" alt="creating the virtual machine2" src="https://github.com/user-attachments/assets/775c37f7-2463-4c65-ba98-8b0bdfa13416" />
+<img width="1513" height="788" alt="creating the virtual machine3" src="https://github.com/user-attachments/assets/c5d5347c-bbe9-44e4-8404-e0241f90d6a9" />
+<img width="1072" height="940" alt="creating the virtual machine4" src="https://github.com/user-attachments/assets/a9196d61-65e5-4ebc-9564-8897fc4f08ef" />
+<img width="1544" height="848" alt="create vm Password(osTicketPassword1!)" src="https://github.com/user-attachments/assets/deaa2c68-4e32-444c-ab0a-1475f0680d31" />
+<img width="1073" height="830" alt="create vm" src="https://github.com/user-attachments/assets/36d70136-fc1a-4079-b585-503981b3eeaf" />
+
+
+
+
+
 
 **From this I learned:** how to provision an Azure VM, configure resources, and connect remotely using RDP.
 
